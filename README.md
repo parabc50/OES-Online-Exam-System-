@@ -6,8 +6,8 @@ A modern web-based platform for conducting digital exams, managing classes, and 
 ![MySQL](https://img.shields.io/badge/MySQL-336791?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## demo :- http://oes.infinityfreeapp.com/
-(Please use desktop to view the project mobile view of the is not fully compeleted)
+### demo :- http://oes.infinityfreeapp.com/
+(Please use desktop to view the project mobile view of the project is not fully compeleted)
 
 ## Features
 
